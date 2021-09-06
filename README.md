@@ -1,2 +1,2 @@
-# DragonaryPlayer
-Dragonary-player
+# Dragonary Bot
+Dragonary-Bot is based on code 
